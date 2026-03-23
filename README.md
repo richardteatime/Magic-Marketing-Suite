@@ -10,7 +10,7 @@ Questa repository contiene un ecosistema di Skill collegate tra loro per trasfor
 Per installare l'intera suite nel tuo progetto locale, apri il terminale alla radice del tuo progetto e digita:
 
 ```bash
-npx skills add [INSERISCI_QUI_IL_LINK_DEL_TUO_GITHUB] --all
+npx skills add richardteatime/Magic-Marketing-Suite --skill '*'
 ```
 *(L'utility scaricherà e mapperà automaticamente tutte e 4 le skill nel tuo workspace).*
 
